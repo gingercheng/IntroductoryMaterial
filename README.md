@@ -6,15 +6,12 @@ Phys 1600/2600 has it's own dedicated Jupyter Hub server which can be accessed a
 
 ## Installing Python Locally
 
-Python 3.6 will be used in PHYS 1600. If you plan on running code on your local machine then you must install python. In addition to the base python installation a number of packages are required. In particular, we will make extensive use of the numpy and matplotlib packages included as part of the SciPy library. We also require a few tools to help us work efficiently using python, including the ipython shell, an interactive python interpreter; Jupyter notebooks, an interactive python environment tailored for scientific computing; and a text editor. 
+Python 3.6 will be used in PHYS 1600. If you plan on running code on your local machine, then you must install python. A number of packages are required In addition to the base python installation. In particular, we will make extensive use of the numpy and matplotlib packages included as part of the SciPy library. We also require a few tools to help us work efficiently using python, including the ipython shell, an interactive python interpreter; Jupyter notebooks, an interactive python environment tailored for scientific computing; and a text editor. 
 
 Luckily, most of these packages and tools are included as part of the Anaconda python distribution, which is a great python distribution for scientific computation. To install, go to https://www.anaconda.com/download and download the installer for the Python 3.6 version appropriate to your operating system (either Windows, macOS, or Linux). 
 
 The easiest way to test your python installation is to open the Jupyter notebook application. You may need to search for it. When you open Jupyter, the interface will pop up as a tab in your web browser and a terminal will open in the background. Don’t worry about the terminal, just let it do its thing. 
 
-We will use the file “Python_basics.ipynb”, which is a python notebook file, to test your python installation and introduce some python basics. Download this file and place it in a directory where you would like to store your python work for PHYS 1600. 
-
-Now, using the Jupyter interface in your web browser, navigate to the folder where the file python_basics.ipynb is stored. You can then click on this file to open with Jupyter. Follow the instructions in the notebook to work through all of the examples. 
 
 To close Jupyter program, close the tab on your browser, then go to the terminal, which is open, and press ctrl+c and then close the terminal. 
 
@@ -29,3 +26,8 @@ A nice cross-platform option is Sublime text editor, find it here:  https://www.
 Notepad++ is another good and free option for windows, find it here: https://notepad-plus-plus.org/
 
 Atom for MacOS: https://atom.io/
+
+## Assignment 0
+We will use the file “Python_basics.ipynb”, which is a python notebook file, to test your python installation and get familiar with Python and Jupyter Notebooks. Use git to clone this Introductory Material respository onto your local machine or into your Jupyter hub.
+
+Now, using the Jupyter interface in your web browser, navigate to the folder where the file python_basics.ipynb is stored. You can then click on this file to open with Jupyter. Follow the instructions in the notebook to work through all of the problems. When your are finished export the notebook to pdf with the built in LaTeX compiler. Click File -> Export Notebook As... -> Export Notebook to PDF. Once LaTeX has completed compiling, a pdf will begin downloading. Submit this pdf to Canvas.  
