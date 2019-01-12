@@ -1,4 +1,4 @@
-# IntroductoryMaterial
+# IntroductoryMaterial and Assignment 0
 
 ## Running python on the PHYS 1600 Jupyter Hub
 
