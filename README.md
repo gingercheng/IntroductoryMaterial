@@ -1,8 +1,12 @@
 # IntroductoryMaterial
 
-## Installing Python
+## Running python on the PHYS 1600 Jupyter Hub
 
-Python 3.6 will be used in PHYS 1600.  In addition to the base python installation a number of packages are required. In particular, we will make extensive use of the numpy and matplotlib packages included as part of the SciPy library. We also require a few tools to help us work efficiently using python, including the ipython shell, an interactive python interpreter; Jupyter notebooks, an interactive python environment tailored for scientific computing; and a text editor. 
+Phys 1600/2600 has it's own dedicated Jupyter Hub server which can be accessed at https://phys1600.jupyter.brown.edu. All you need is a web browser and a Brown login and you can start programming in Python on the hub. 
+
+## Installing Python Locally
+
+Python 3.6 will be used in PHYS 1600. If you plan on running code on your local machine then you must install python. In addition to the base python installation a number of packages are required. In particular, we will make extensive use of the numpy and matplotlib packages included as part of the SciPy library. We also require a few tools to help us work efficiently using python, including the ipython shell, an interactive python interpreter; Jupyter notebooks, an interactive python environment tailored for scientific computing; and a text editor. 
 
 Luckily, most of these packages and tools are included as part of the Anaconda python distribution, which is a great python distribution for scientific computation. To install, go to https://www.anaconda.com/download and download the installer for the Python 3.6 version appropriate to your operating system (either Windows, macOS, or Linux). 
 
