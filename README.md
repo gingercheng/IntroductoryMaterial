@@ -2,7 +2,7 @@
 
 ## Running python on the PHYS 1600 Jupyter Hub
 
-Phys 1600/2600 has it's own dedicated Jupyter Hub server which can be accessed at https://phys1600.jupyter.brown.edu. All you need is a web browser and a Brown login and you can start programming in Python on the hub!
+Phys 1600/2600 has it's own dedicated Jupyter Hub server which can be accessed at https://phys1600.jupyter.brown.edu. All you need is a web browser and a Brown login and you can start programming in Python on the hub! You should be able to use the hub for all assignments lecture workbooks in PHYS1600/2600. I recommend that you also install Python on your local machine following the instructions below.
 
 ## Installing Python Locally
 
@@ -26,3 +26,13 @@ A nice cross-platform option is Sublime text editor, find it here:  https://www.
 Notepad++ is another good and free option for windows, find it here: https://notepad-plus-plus.org/
 
 Atom for MacOS: https://atom.io/
+
+## 
+
+Please create your own local **clone** of this repo on your [Jupyter Hub](https://phys1600.jupyter.brown.edu), local machine, or both (the last option is best).
+
+Instructions for cloning a repo can be found here:
+
+https://help.github.com/articles/cloning-a-repository/
+
+
