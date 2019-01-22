@@ -1,8 +1,8 @@
 
 # Assignment 0
-Due Date: 01/31/2019
+**Due Date:** 01/31/2019
 
-Grade: Complete/Incomplete
+**Grade:** Complete/Incomplete
 
 The first assignment for PHYS 1600/2600 is in the file “Python_basics.ipynb”, which is a python notebook file. This notebook is also usefull to to test your python installation and get familiar with Python and Jupyter Notebooks interface. Use git to clone this Introductory Material respository onto your local machine or into your Jupyter hub.
 
