@@ -27,7 +27,7 @@ Notepad++ is another good and free option for windows, find it here: https://not
 
 Atom for MacOS: https://atom.io/
 
-## 
+## Accessing Lecture Material
 
 Please create your own local **clone** of this repo on your [Jupyter Hub](https://phys1600.jupyter.brown.edu), local machine, or both (the last option is best).
 
@@ -35,4 +35,5 @@ Instructions for cloning a repo can be found here:
 
 https://help.github.com/articles/cloning-a-repository/
 
+Later we will *fork* GitHub repo's and *sync upstream*, so that you can work on your own copy and maintain up-to-date material without loosing any of your own work.
 
